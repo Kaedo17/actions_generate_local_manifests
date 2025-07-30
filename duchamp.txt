@@ -1,0 +1,7 @@
+repo init --depth=1 -u https://github.com/Evolution-X/manifest.git -b vic --git-lfs
+git clone https://github.com/mt6897-devs/device_xiaomi_duchamp device/xiaomi/duchamp -b 15
+git clone https://github.com/mt6897-devs/android_kernel_6.1 kernel/xiaomi/mt6897 -b 15
+git clone https://github.com/mt6897-devs/vendor_xiaomi_duchamp vendor/xiaomi/duchamp -b 15
+git clone https://github.com/mt6897-devs/hardware_mediatek hardware/mediatek -b 15
+git clone https://github.com/mt6897-devs/hardware_xiaomi hardware/xiaomi -b 15
+git clone https://github.com/mt6897-devs/device_mediatek_sepolicy_vndr device/mediatek/sepolicy_vndr -b 15
