@@ -6,3 +6,4 @@ git clone https://github.com/mt6897-devs/hardware_xiaomi hardware/xiaomi
 git clone https://github.com/mt6897-devs/device_mediatek_sepolicy_vndr device/mediatek/sepolicy_vndr
 git clone https://github.com/mt6897-devs/vendor_xiaomi_duchamp vendor/xiaomi/duchamp
 git clone https://github.com/mt6897-devs/android_kernel_6.1 kernel/xiaomi/mt6897
+git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX  packages/apps/ViPER4AndroidFX
